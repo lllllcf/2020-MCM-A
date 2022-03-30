@@ -1,0 +1,129 @@
+\section{Model 1: Static Forces Model of the System}
+\subsection{Model Overview}
+\par In order to estimate the minimum amount of material we need for the cable and the rods, we firstly need to find out the loading conditions and loading limitations of them. When the speed of the trailer and the environmental factors are
+not considered, the system is in a static state. The processes to analysis and calculate the axial forces on the rods($f_i$), the shear forces on the beam($f_b$) and the tension on the cable($f_{i,1}$ or $f_{i,2}$) are divided into two main steps: 
+\begin{enumerate}
+	\item Calculate the forces on pull rods based on the equilibrium condition and the distribution of forces on the beam. (We denote the force on the ith rod as $f_i$)
+	\item Based on the force $f_i$ on each rod, the tension on the cable can be calculated and we denote them as $f_{i,1}$ and $f_{i,2}$
+\end{enumerate}
+\par Then, we mainly change two parameters which are function coefficient$\lambda$ and rod number $n$ to calculate the result of the three kinds of forces and the corresponding cost for the whole system.
+\par Finally, a weight $\omega$ is introduced to measure the importance of safety comparing with the importance of cost. We use the weight to generate a score for different structures and the best one will be find.
+  
+\subsection{Axial Force on Each Pull Rod}
+\par As shown in the following picture, in Model 1, the truss won't be considered and we just analyze one side of the transpotation system to simplify the model. For the forces are not uniformly distributed on these rods, we will get a family of forces which are $f_{i}$ where $0 < i < n$.
+\begin{figure}[H] 
+	\centering 
+	\includegraphics[height=8cm]{./picture/force1.png}
+	\caption{Equivalent axial forces on pull rods.} %在图下方
+\end{figure}
+\par When there are no weight pass by, the task of the rod is supporting the beam, in this situation the forces are equaly distributed and we denote it as $f_{ini}$ and we can get the following equations.
+\begin{align}
+	M_Bg = nf_{ini} 
+\end{align} 
+where $M_B$ is the mass of the beam.
+\par When we apply a force $F$ on the beam which is $x_0$ meter to the left, the situation becomes different, the corresponding force on the rods which is $f_{F,i}$ are not equally distributed and we have:
+\begin{align}
+	f_i = f_{ini} + f_{F,i} 
+\end{align}
+\par Suppose that the force distribution function for the beam is $D(x)$, $f_{F,i}$ can be calculated as
+\begin{align}
+	f_{F,i} &= \frac{\int_{d(i-1)}^{d(i)} D(x) dx}{\int_{0}^{L} D(x) dx}F \\
+	d(x) &= \frac{x}{n}L 
+\end{align}
+Where the function $d(x)$ is the position function for the ith middle point of the two rods. So, use Equation(1) (2) and (3), we can get the axial force on each pull rod. The only task for us is to find the function $D(x)$. 
+
+\subsection{Find the Distribution Function}
+\par When a force is applied to the beam, a small deformation occurs, we use Solidworks to construct a beam and use FEA (Finite Element Analysis) to simulate this kind of deformation.
+\begin{figure}[H] 
+	\centering 
+	\includegraphics[height=8cm]{./picture/fea.jpg}
+	\caption{Deformation Simulation.} 
+\end{figure}
+\par We can find that the simulation result matches the theoretical equation very well which is
+	$$ V(x)=\left\{
+	\begin{aligned}
+	 &  -\frac{Fx}{6EI_BL}(L-x_0)[L^2-(L-x_0)^2-x^2] & x \leq x_0\\
+	 &  L + \frac{Fx}{6EI_BL}(L-x_0)[L^2-(L-x_0)^2-x^2] & x > x_0
+	\end{aligned}
+	\right.
+	$$
+Where $I_B$ is the second moment of inertia for the cross section of the beam, $E$ is the modulus of Elasticity of the beam and $x_0$ is the position that we apply the force on.
+\par For $D(x)$ is directly proportional to $V(x)$, we have
+\begin{align}
+	D(x) = k_d V(x)
+\end{align}
+\par So that Equation(3) becomes
+\begin{align}
+f_{F,i} &= \frac{k_d\int_{d(i-1)}^{d(i)} V(x) dx}{k_d\int_{0}^{L} V(x) dx}F \\
+f_{F,i} &= \frac{\int_{d(i-1)}^{d(i)} V(x) dx}{\int_{0}^{L} V(x) dx}F
+\end{align}
+
+\subsection{Tensions on the Cable}
+\par As shown in the following picture, we will then calculate the tensions on the cable.
+\begin{figure}[H] 
+	\centering 
+	\includegraphics[height=8cm]{./picture/force2.png}
+	\caption{Tensions on the Cable.} %在图下方
+\end{figure}
+\par Previously, we have calculated the force on the ith rod which is $f_i$, here we should do a little update on the value of $f_i$ to further consider the mass of the rod which is $m_i$.
+\begin{align}
+	f_{i'} = f_{i} + m_{i}g
+\end{align}
+\par Then, the position function of the rod and the quadratic function of the cable will give us three point and we can use the three point and the force on the cable to calculate the tentions on the cable which are $f_{i,1}$ and $f_{i,2}$.
+\par The position function of the rod and the quadratic function are given by
+\begin{align}
+	x_i &= p(n,i) = \frac{2i-n-1}{2n}L \\
+	y_i &= \lambda x_i^2
+\end{align}
+\par So we can calculate the two tensions by 
+\begin{align}
+	(f_{i,1}, f_{i,2}) = T[f_{i'},(x1,y1),(x2,y2),(x3,y3)]
+\end{align}
+\par The tension function can be written as
+	$$ T[.]=\left\{
+	\begin{aligned}
+	f_{i,1} &= \frac{\cos \beta}{\cos \alpha}f_{i,2} \\
+	f_{i'} &= sgn(y_0 - y_1)\sin \alpha f_{i,1} + sgn(y_2-y_1)\sin \beta f_2 \\
+	\alpha &= \arctan\frac{|y_0-y_1|}{|x_0-x_1|} \\
+	\beta &= \arctan\frac{|y_2-y_1|}{|x_2-x_1|} \\
+	\end{aligned}
+	\right.
+	$$
+
+\subsection{Results}
+\par We will use Matlab and apply the following algorithm to find out the best structure.
+\par
+\begin{algorithm}[H]
+	\SetAlgoLined
+	\KwIn{$\lambda_0$, $\lambda_{max}$, $\omega$, $x_{0,ini}$, $\delta$, $n_{max}$,}
+	\KwResult{$\Sigma P$, $f_{i,1}$, $f_{i,2}$, $score$}
+	\While{there are other combinations of $(\lambda, n, x_0)$}{
+		apply the distribution of the force $D(x)$ \\
+		get the position of the rod $p(i, n, L, \lambda)$ \\
+		get the force on each rod $f_i(i, n, F, X, x0)$ \\
+		calculate tention $[f_{i,1}, f_{i,2}] = T_i([x0, y0], [x1, y1], [x2, y2], f_i)$ \\
+		next $(\lambda, n, x_0)$ \\
+	}
+	Data normalization for $(f_{i, 1}, f_{i, 2}, (\Sigma P)_i)$ \\
+	Find the informationentropy and use it to calculate the weight of each variable. \\
+	Use TOPSIS to Enlarge the gap and calculate the optimal solution.
+	\caption{Optimal Architecture}
+\end{algorithm}
+\par The following two pictures show the two curve family. The first one is the relationship between $\lambda$ and tension $f_{t,n}$ and the second one is about the relationship between $\\ambda$ and cost $P_n$.
+\begin{figure}[H] 
+	\centering 
+	\includegraphics[height=7cm]{./picture/ftPrice.png}
+	\caption{Two curve families} %在图下方
+\end{figure}
+\par And we can apply MADM(Multiple Attribute Decision Making), during this process, we use informationentropy to estimate the weight objectively and then use TOPSIS to calculate the optimal solution. The following are the Feature scaling formula and TOPSIS estimation criteria for data
+\begin{align}
+	x'_{ij} = \frac{x_{ij}}{\sqrt{\sum_{i=1}^m}x^2_{ij}} \\
+	score = \frac{l^-_i}{l^-_i + l^+_i}
+\end{align}
+\par And the result is shown on the following picture.
+\begin{figure}[H] 
+	\centering 
+	\includegraphics[height=7cm]{./picture/surfP.png}
+	\caption{MAMD results for Model1.} %在图下方
+\end{figure}
+\par Consider the limitation of the cable and rod, we can find that the maximal force they can bear separately is 706850N ($r_c = 0.03m$) and 78539N ($r_r = 0.01m$). The optimal structure is $n = 10$, $\lambda = 0.28$ and the cost is 129540.8 yuan.

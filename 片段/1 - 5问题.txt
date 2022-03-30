@@ -1,0 +1,8 @@
+1 - 5页
+1.  Assumption最后一条：环境因素考虑了温度和湿度二者
+2.  1.2 的第二点的第三行 (sensitivity analysis) 去掉或改为 (random environment)
+3.  3.1 的 2最后引一下A题配套文章comap那个
+4.  3.4 的6，7行引用图片时都打了（）
+5.  3.4的8，9行 中的三处？？分别填  最前面的extension rate修正公式，ELO公式以及decomposition rate
+    其中还得为ELO公式后面加引用标记。
+

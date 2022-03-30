@@ -1,0 +1,1826 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.5.8)  20 JUN 2021 16:13
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**2106187.tex
+(./2106187.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(f:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(f:/texlive/2020/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(f:/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(f:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(f:/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(f:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count175
+\Gm@cntv=\count176
+\c@Gm@tempcnt=\count177
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks16
+)
+(f:/texlive/2020/texmf-dist/tex/latex/newtx/newtxtext.sty
+Package: newtxtext 2020/03/02 v1.625
+
+`newtxtext' v1.625, 2020/03/02 Text macros taking advantage of TeX-Gyre Termes 
+fonts (msharpe) (f:/texlive/2020/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2014/03/23 v1.0d Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+\ntx@fs=\dimen143
+
+(f:/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(f:/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(f:/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+)
+\XKV@depth=\count178
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(f:/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count179
+)
+(f:/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line
+ 112.
+
+(f:/texlive/2020/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
+File: t1ntxtlf.fd 2015/01/17 v1.0 font definition file for T1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.0pt on input line 112.
+)
+(f:/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+LaTeX Font Info:    Changing ? sub-encoding to TS1/0 on input line 75.
+)
+\ntxt@cntz=\count180
+LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 263.
+)
+(f:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(f:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(f:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen144
+))
+(f:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen145
+)
+(f:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count181
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count182
+\leftroot@=\count183
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count184
+\DOTSCASE@=\count185
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen146
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count186
+\c@MaxMatrixCols=\count187
+\dotsspace@=\muskip16
+\c@parentequation=\count188
+\dspbrk@lvl=\count189
+\tag@help=\toks20
+\row@=\count190
+\column@=\count191
+\maxfields@=\count192
+\andhelp@=\toks21
+\eqnshift@=\dimen147
+\alignsep@=\dimen148
+\tagshift@=\dimen149
+\tagwidth@=\dimen150
+\totwidth@=\dimen151
+\lineht@=\dimen152
+\@envbody=\toks22
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(f:/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(f:/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(f:/texlive/2020/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks24
+\thm@bodyfont=\toks25
+\thm@headfont=\toks26
+\thm@notefont=\toks27
+\thm@headpunct=\toks28
+\thm@preskip=\skip52
+\thm@postskip=\skip53
+\thm@headsep=\skip54
+\dth@everypar=\toks29
+)
+(f:/texlive/2020/texmf-dist/tex/latex/newtx/newtxmath.sty
+Package: newtxmath 2020/03/02 v1.625
+
+`newtxmath' v1.625, 2020/03/02 Math macros based originally on txfonts (msharpe
+) (f:/texlive/2020/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(f:/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(f:/texlive/2020/texmf-dist/tex/latex/oberdiek/centernot.sty
+Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
+)
+\tx@cntz=\count193
+
+(f:/texlive/2020/texmf-dist/tex/generic/kastrup/binhex.tex)
+\tx@Isdigit=\count194
+\tx@IsAlNum=\count195
+\tx@tA=\toks30
+\tx@tB=\toks31
+\tx@su=\read2
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 317.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ntxtlf/m/n on input line 317.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ntxtlf/m/n on input line 317.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/ntxtlf/m/n --> OT1/ntxtlf/b/n on input line 318.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 326.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/qhv/m/n on input line 326.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/qhv/m/n on input line 326.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 327.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ntxtlf/m/it on input line 327.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ntxtlf/m/it on input line 327.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 328.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/ntxtt/m/n on input line 328.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/ntxtt/m/n on input line 328.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 330.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ntxtlf/b/n on input line 330.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ntxtlf/b/n on input line 330.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/ntxtlf/m/it --> OT1/ntxtlf/b/it on input line 331.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/qhv/m/n --> T1/qhv/b/n on input line 332.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/ntxtt/m/n --> T1/ntxtt/b/n on input line 333.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 422.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ntxmi/m/it on input line 422.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ntxmi/m/it on input line 422.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/ntxmi/m/it --> OML/ntxmi/b/it on input line 423.
+\symlettersA=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 476.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 478.
+Now handling font encoding LMS ...
+... no UTF-8 mapping file for font encoding LMS
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 497.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 497.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 497.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 497.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 497.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 498.
+\symAMSm=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
+(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 521.
+\symsymbolsC=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 542.
+Now handling font encoding LMX ...
+... no UTF-8 mapping file for font encoding LMX
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 555.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 5
+55.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 555.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 555
+.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 555.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 556.
+\symlargesymbolsTXA=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
+
+(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 570.
+\tx@sbptoks=\toks32
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 792.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 793.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 794.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 795.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 796.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 797.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 798.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 800.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 804.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 805.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 876.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 877.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 1940.
+\ntx@numstart=\count196
+\ntx@UCstart=\count197
+\ntx@lcstart=\count198
+\ntx@tmpc=\count199
+\ntx@imath=\count266
+\ntx@jmath=\count267
+LaTeX Info: Redefining \Bbbk on input line 2449.
+LaTeX Info: Redefining \not on input line 2598.
+LaTeX Info: Redefining \textsquare on input line 2628.
+LaTeX Info: Redefining \openbox on input line 2630.
+)
+(f:/texlive/2020/texmf-dist/tex/latex/psnfss/palatino.sty
+Package: palatino 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(f:/texlive/2020/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen153
+\lightrulewidth=\dimen154
+\cmidrulewidth=\dimen155
+\belowrulesep=\dimen156
+\belowbottomsep=\dimen157
+\aboverulesep=\dimen158
+\abovetopsep=\dimen159
+\cmidrulesep=\dimen160
+\cmidrulekern=\dimen161
+\defaultaddspace=\dimen162
+\@cmidla=\count268
+\@cmidlb=\count269
+\@aboverulesep=\dimen163
+\@belowrulesep=\dimen164
+\@thisruleclass=\count270
+\@lastruleclass=\count271
+\@thisrulewidth=\dimen165
+)
+(f:/texlive/2020/texmf-dist/tex/latex/mwe/mwe.sty
+Package: mwe 2018/03/30 v0.5 Package to support minimal working examples (MWE)
+
+(f:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(f:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(f:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(f:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(f:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen166
+\Gin@req@width=\dimen167
+)
+(f:/texlive/2020/texmf-dist/tex/latex/lipsum/lipsum.sty
+(f:/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-03-06 L3 programming layer (loader) 
+
+(f:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count272
+\l__pdf_internal_box=\box47
+))
+(f:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2020-03-06 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count273
+\g__xparse_grabber_int=\count274
+\l__xparse_m_args_int=\count275
+\l__xparse_v_nesting_int=\count276
+)
+Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
+
+(f:/texlive/2020/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
+File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
+))
+(f:/texlive/2020/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(f:/texlive/2020/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count277
+\c@Blindtext=\count278
+\c@blind@countparstart=\count279
+\blind@countxx=\count280
+\blindtext@numBlindtext=\count281
+\blind@countyy=\count282
+\c@blindlist=\count283
+\c@blindlistlevel=\count284
+\c@blindlist@level=\count285
+\blind@listitem=\count286
+\c@blind@listcount=\count287
+\c@blind@levelcount=\count288
+\blind@mathformula=\count289
+\blind@Mathformula=\count290
+\c@blind@randomcount=\count291
+\c@blind@randommax=\count292
+\c@blind@pangramcount=\count293
+\c@blind@pangrammax=\count294
+))
+(f:/texlive/2020/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+
+(f:/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(f:/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen168
+\captionmargin@=\dimen169
+\captionwidth=\dimen170
+\caption@tempdima=\dimen171
+\caption@indent=\dimen172
+\caption@parindent=\dimen173
+\caption@hangindent=\dimen174
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count295
+\c@continuedfloat=\count296
+)
+\c@subfigure=\count297
+\c@subtable=\count298
+)
+(f:/texlive/2020/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count299
+\float@exts=\toks33
+\float@box=\box48
+\@float@everytoks=\toks34
+\@floatcapt=\box49
+)
+(f:/texlive/2020/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip55
+\multirow@cntb=\count300
+\multirow@dima=\skip56
+\bigstrutjot=\dimen175
+)
+(f:/texlive/2020/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(f:/texlive/2020/texmf-dist/tex/latex/was/gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(f:/texlive/2020/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count301
+
+(f:/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\algocf@hangindent=\skip57
+
+(f:/texlive/2020/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count302
+)
+(f:/texlive/2020/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\skiptotal=\skip58
+\skiplinenumber=\skip59
+\skiprule=\skip60
+\skiphlne=\skip61
+\skiptext=\skip62
+\skiplength=\skip63
+\algomargin=\skip64
+\skipalgocfslide=\skip65
+\algowidth=\dimen176
+\inoutsize=\dimen177
+\inoutindent=\dimen178
+\interspacetitleruled=\dimen179
+\interspacealgoruled=\dimen180
+\interspacetitleboxruled=\dimen181
+\algocf@ruledwidth=\skip66
+\algocf@inoutbox=\box50
+\algocf@inputbox=\box51
+\AlCapSkip=\skip67
+\AlCapHSkip=\skip68
+\algoskipindent=\skip69
+\algocf@nlbox=\box52
+\algocf@hangingbox=\box53
+\algocf@untilbox=\box54
+\algocf@skipuntil=\skip70
+\algocf@capbox=\box55
+\algocf@lcaptionbox=\skip71
+\algoheightruledefault=\skip72
+\algoheightrule=\skip73
+\algotitleheightruledefault=\skip74
+\algotitleheightrule=\skip75
+\c@algocfline=\count303
+\c@algocfproc=\count304
+\c@algocf=\count305
+\algocf@algoframe=\box56
+\algocf@algobox=\box57
+)
+(f:/texlive/2020/texmf-dist/tex/latex/diagbox/diagbox.sty
+Package: diagbox 2020/02/09 v2.3 Making table heads with diagonal lines
+
+(f:/texlive/2020/texmf-dist/tex/latex/pict2e/pict2e.sty
+Package: pict2e 2019/08/20 v0.3c Improved picture commands (HjG,RN,JT)
+
+(f:/texlive/2020/texmf-dist/tex/latex/pict2e/pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: pdftex.def on input line 119.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 121.
+
+(f:/texlive/2020/texmf-dist/tex/latex/pict2e/p2e-pdftex.def
+File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks35
+\@arclen=\dimen182
+\@arcrad=\dimen183
+\@tempdimd=\dimen184
+)
+(f:/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count306
+\calc@Bcount=\count307
+\calc@Adimen=\dimen185
+\calc@Bdimen=\dimen186
+\calc@Askip=\skip76
+\calc@Bskip=\skip77
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count308
+\calc@Cskip=\skip78
+)
+(f:/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen187
+\ar@mcellbox=\box58
+\extrarowheight=\dimen188
+\NC@list=\toks36
+\extratabsurround=\skip79
+\backup@length=\skip80
+\ar@cellbox=\box59
+)
+\diagbox@boxa=\box60
+\diagbox@boxb=\box61
+\diagbox@boxm=\box62
+\diagbox@wd=\dimen189
+\diagbox@ht=\dimen190
+\diagbox@insepl=\dimen191
+\diagbox@insepr=\dimen192
+\diagbox@outsepl=\dimen193
+\diagbox@outsepr=\dimen194
+)
+(f:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(f:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(f:/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip81
+\f@nch@O@elh=\skip82
+\f@nch@O@erh=\skip83
+\f@nch@O@olh=\skip84
+\f@nch@O@orh=\skip85
+\f@nch@O@elf=\skip86
+\f@nch@O@erf=\skip87
+\f@nch@O@olf=\skip88
+\f@nch@O@orf=\skip89
+)
+(f:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks37
+\inpenc@posthook=\toks38
+)
+(f:/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 11
+2.
+
+(f:/texlive/2020/texmf-dist/tex/latex/psnfss/t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+))
+(f:/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count309
+\lst@gtempboxa=\box63
+\lst@token=\toks39
+\lst@length=\count310
+\lst@currlwidth=\dimen195
+\lst@column=\count311
+\lst@pos=\count312
+\lst@lostspace=\dimen196
+\lst@width=\dimen197
+\lst@newlines=\count313
+\lst@lineno=\count314
+\lst@maxwidth=\dimen198
+
+(f:/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count315
+\lst@skipnumbers=\count316
+\lst@framebox=\box64
+)
+(f:/texlive/2020/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(f:/texlive/2020/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+(f:/texlive/2020/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
+
+(f:/texlive/2020/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+(f:/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+
+(f:/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(f:/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)))
+\AM@pagewidth=\dimen199
+\AM@pageheight=\dimen256
+
+(f:/texlive/2020/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box65
+\AM@global@opts=\toks40
+\AM@pagecnt=\count317
+\AM@toc@title=\toks41
+\c@AM@survey=\count318
+\AM@templatesizebox=\box66
+) (./mcode.sty
+-- Package: `mcode' 2.7 <2015/11/11> --
+Package: mcode 2015/11/11 2.7
+ - settings optimized for display (colour formating)
+ - line numbering enabled
+ - framed listings
+)
+\c@theorem=\count319
+\c@definition=\count320
+ (./2106187.aux
+
+LaTeX Warning: Label `t12' multiply defined.
+
+
+LaTeX Warning: Label `yt12' multiply defined.
+
+)
+\openout1 = `2106187.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 81.
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
+ 81.
+ (f:/texlive/2020/texmf-dist/tex/latex/newtx/omlntxmi.fd
+File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
+)
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 81.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
+81.
+
+(f:/texlive/2020/texmf-dist/tex/latex/newtx/untxexa.fd
+File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
+)
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 81.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
+ 81.
+
+(f:/texlive/2020/texmf-dist/tex/latex/newtx/lmsntxsy.fd
+File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
+)
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 81.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
+e 81.
+
+(f:/texlive/2020/texmf-dist/tex/latex/newtx/lmxntxexx.fd
+File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
+)
+LaTeX Font Info:    ... okay on input line 81.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(54.2025pt, 489.10287pt, 54.2025pt)
+* v-part:(T,H,B)=(72.26999pt, 714.96065pt, 57.81621pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=489.10287pt
+* \textheight=714.96065pt
+* \oddsidemargin=-18.06749pt
+* \evensidemargin=-18.06749pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@mv@tabular=\count321
+\c@mv@boldtabular=\count322
+(f:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count323
+\scratchdimen=\dimen257
+\scratchbox=\box67
+\nofMPsegments=\count324
+\nofMParguments=\count325
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count326
+\MPscratchDim=\dimen258
+\MPnumerator=\count327
+\makeMPintoPDFobject=\count328
+\everyMPtoPDFconversion=\toks43
+) (f:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(f:/texlive/2020/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(f:/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(f:/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+(f:/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(f:/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(f:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\symgns@font=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/ntxtlf/m/n --> TS1/ntxtlf/b/n on input line 81.
+Package gensymb Info: Math companion symbols declared on input line 81.
+LaTeX Info: Redefining \degree on input line 81.
+LaTeX Info: Redefining \celsius on input line 81.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
+erthousand on input line 81.
+LaTeX Info: Redefining \ohm on input line 81.
+Package gensymb Info: Using \textohm for \ohm on input line 81.
+Package gensymb Info: Using \textmu for \micro on input line 81.
+\c@lstlisting=\count329
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 81.
+\AtBeginShipoutBox=\box68
+
+(f:/texlive/2020/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(f:/texlive/2020/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input lin
+e 91.
+
+(f:/texlive/2020/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
+File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.0pt on input line 91.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.8pt on input line 91.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.6pt on input line 91.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 91.
+
+
+(f:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 91.
+
+
+(f:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
+91.
+
+(f:/texlive/2020/texmf-dist/tex/latex/newtx/untxmia.fd
+File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
+91.
+
+(f:/texlive/2020/texmf-dist/tex/latex/newtx/untxsym.fd
+File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
+91.
+
+(f:/texlive/2020/texmf-dist/tex/latex/newtx/untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+)
+LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input lin
+e 91.
+
+(f:/texlive/2020/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
+File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
+)
+LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.0pt on input line 91.
+LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.8pt on input line 91.
+LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.6pt on input line 91.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 12.0pt on input line 91.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 17.28pt on input line 91.
+ [1
+
+{f:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 17.28pt on input line 122.
+ (./2106187.toc)
+\tf@toc=\write3
+\openout3 = `2106187.toc'.
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 14.49998pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[1
+
+]
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 14.4pt on input line 130.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 14.4pt on input line 130.
+<./figures/fungi.jpeg, id=11, 376.40625pt x 239.39438pt>
+File: ./figures/fungi.jpeg Graphic file (type jpg)
+<use ./figures/fungi.jpeg>
+Package pdftex.def Info: ./figures/fungi.jpeg  used on input line 136.
+(pdftex.def)             Requested size: 195.63815pt x 124.42734pt.
+ [2 <./figures/fungi.jpeg>] [3]
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.8pt on input line 215.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.6pt on input line 215.
+ [4]
+
+LaTeX Warning: Reference `???' on page 5 undefined on input line 268.
+
+
+LaTeX Warning: Reference `???' on page 5 undefined on input line 268.
+
+
+LaTeX Warning: Reference `???' on page 5 undefined on input line 268.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 270.
+
+<./picture/CA.pdf, id=27, 413.62529pt x 385.44pt>
+File: ./picture/CA.pdf Graphic file (type pdf)
+<use ./picture/CA.pdf>
+Package pdftex.def Info: ./picture/CA.pdf  used on input line 273.
+(pdftex.def)             Requested size: 183.19484pt x 170.71652pt.
+<./picture/liucheng.pdf, id=28, 451.6875pt x 449.76028pt>
+File: ./picture/liucheng.pdf Graphic file (type pdf)
+<use ./picture/liucheng.pdf>
+Package pdftex.def Info: ./picture/liucheng.pdf  used on input line 278.
+(pdftex.def)             Requested size: 171.45004pt x 170.71652pt.
+[5]
+<./figures/wood.png, id=32, 469.755pt x 209.78375pt>
+File: ./figures/wood.png Graphic file (type png)
+<use ./figures/wood.png>
+Package pdftex.def Info: ./figures/wood.png  used on input line 293.
+(pdftex.def)             Requested size: 273.96335pt x 122.34692pt.
+
+Overfull \hbox (30.96362pt too wide) in paragraph at lines 293--294
+[][] 
+ []
+
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.95pt on input line 294.
+<./figures/compete.png, id=34, 385.44pt x 219.82124pt>
+File: ./figures/compete.png Graphic file (type png)
+<use ./figures/compete.png>
+Package pdftex.def Info: ./figures/compete.png  used on input line 299.
+(pdftex.def)             Requested size: 209.53426pt x 119.50148pt.
+
+Overfull \hbox (2.53453pt too wide) in paragraph at lines 298--300
+[]  [] 
+ []
+
+
+Overfull \hbox (10.6965pt too wide) in paragraph at lines 292--303
+[]$[]$  $[]$ 
+ []
+
+[6 <./picture/CA.pdf> <./picture/liucheng.pdf> <./figures/wood.png> <./figures/
+compete.png>]
+<./picture/Eg_200day.pdf, id=70, 421.575pt x 316.18124pt>
+File: ./picture/Eg_200day.pdf Graphic file (type pdf)
+<use ./picture/Eg_200day.pdf>
+Package pdftex.def Info: ./picture/Eg_200day.pdf  used on input line 338.
+(pdftex.def)             Requested size: 146.73235pt x 110.04755pt.
+<./picture/Eg_600day.pdf, id=71, 421.575pt x 316.18124pt>
+File: ./picture/Eg_600day.pdf Graphic file (type pdf)
+<use ./picture/Eg_600day.pdf>
+Package pdftex.def Info: ./picture/Eg_600day.pdf  used on input line 343.
+(pdftex.def)             Requested size: 146.73235pt x 110.04755pt.
+<./picture/Eg_1500day.pdf, id=72, 421.575pt x 316.18124pt>
+File: ./picture/Eg_1500day.pdf Graphic file (type pdf)
+<use ./picture/Eg_1500day.pdf>
+Package pdftex.def Info: ./picture/Eg_1500day.pdf  used on input line 348.
+(pdftex.def)             Requested size: 146.73235pt x 110.04755pt.
+Package epstopdf Info: Source file: <./picture/Eg_junsi.eps>
+(epstopdf)                    date: 2021-02-07 13:12:06
+(epstopdf)                    size: 339679 bytes
+(epstopdf)             Output file: <./picture/Eg_junsi-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-02-09 00:22:08
+(epstopdf)                    size: 117931 bytes
+(epstopdf)             Command: <repstopdf --outfile=./picture/Eg_junsi-eps-con
+verted-to.pdf ./picture/Eg_junsi.eps>
+(epstopdf)             \includegraphics on input line 353.
+Package epstopdf Info: Output file is already uptodate.
+<./picture/Eg_junsi-eps-converted-to.pdf, id=73, 421.575pt x 316.18124pt>
+File: ./picture/Eg_junsi-eps-converted-to.pdf Graphic file (type pdf)
+<use ./picture/Eg_junsi-eps-converted-to.pdf>
+Package pdftex.def Info: ./picture/Eg_junsi-eps-converted-to.pdf  used on input
+ line 353.
+(pdftex.def)             Requested size: 146.73235pt x 110.04755pt.
+Package epstopdf Info: Source file: <./picture/g_houduE.eps>
+(epstopdf)                    date: 2021-02-07 13:15:32
+(epstopdf)                    size: 338590 bytes
+(epstopdf)             Output file: <./picture/g_houduE-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-02-09 00:22:10
+(epstopdf)                    size: 92944 bytes
+(epstopdf)             Command: <repstopdf --outfile=./picture/g_houduE-eps-con
+verted-to.pdf ./picture/g_houduE.eps>
+(epstopdf)             \includegraphics on input line 358.
+Package epstopdf Info: Output file is already uptodate.
+<./picture/g_houduE-eps-converted-to.pdf, id=74, 421.575pt x 316.18124pt>
+File: ./picture/g_houduE-eps-converted-to.pdf Graphic file (type pdf)
+<use ./picture/g_houduE-eps-converted-to.pdf>
+Package pdftex.def Info: ./picture/g_houduE-eps-converted-to.pdf  used on input
+ line 358.
+(pdftex.def)             Requested size: 146.73235pt x 110.04755pt.
+Package epstopdf Info: Source file: <./picture/Eg_muban.eps>
+(epstopdf)                    date: 2021-02-07 13:15:00
+(epstopdf)                    size: 433616 bytes
+(epstopdf)             Output file: <./picture/Eg_muban-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-02-09 00:22:12
+(epstopdf)                    size: 139244 bytes
+(epstopdf)             Command: <repstopdf --outfile=./picture/Eg_muban-eps-con
+verted-to.pdf ./picture/Eg_muban.eps>
+(epstopdf)             \includegraphics on input line 363.
+Package epstopdf Info: Output file is already uptodate.
+<./picture/Eg_muban-eps-converted-to.pdf, id=75, 421.575pt x 316.18124pt>
+File: ./picture/Eg_muban-eps-converted-to.pdf Graphic file (type pdf)
+<use ./picture/Eg_muban-eps-converted-to.pdf>
+Package pdftex.def Info: ./picture/Eg_muban-eps-converted-to.pdf  used on input
+ line 363.
+(pdftex.def)             Requested size: 146.73235pt x 110.04755pt.
+ [7 <./picture/Eg_200day.pdf> <./picture/Eg_600day.pdf> <./picture/Eg_1500day.p
+df> <./picture/Eg_junsi-eps-converted-to.pdf> <./picture/g_houduE-eps-converted
+-to.pdf> <./picture/Eg_muban-eps-converted-to.pdf>]
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 12.0pt on input line 377.
+<./4/noE_F1F7_650.jpg, id=144, 873.2625pt x 676.02562pt>
+File: ./4/noE_F1F7_650.jpg Graphic file (type jpg)
+<use ./4/noE_F1F7_650.jpg>
+Package pdftex.def Info: ./4/noE_F1F7_650.jpg  used on input line 382.
+(pdftex.def)             Requested size: 146.73235pt x 113.59215pt.
+<./4/noE_F7F8_860.jpg, id=145, 829.59938pt x 641.39626pt>
+File: ./4/noE_F7F8_860.jpg Graphic file (type jpg)
+<use ./4/noE_F7F8_860.jpg>
+Package pdftex.def Info: ./4/noE_F7F8_860.jpg  used on input line 387.
+(pdftex.def)             Requested size: 146.73235pt x 113.44002pt.
+<./4/noE_F5F9_4500.jpg, id=146, 859.71187pt x 670.00313pt>
+File: ./4/noE_F5F9_4500.jpg Graphic file (type jpg)
+<use ./4/noE_F5F9_4500.jpg>
+Package pdftex.def Info: ./4/noE_F5F9_4500.jpg  used on input line 392.
+(pdftex.def)             Requested size: 146.73235pt x 114.34885pt.
+
+
+LaTeX Warning: Reference `noE_F5F9_4500' on page 8 undefined on input line 412.
+
+
+Package epstopdf Info: Source file: <./4/noE_F1F7_area.eps>
+(epstopdf)                    date: 2021-02-08 10:46:26
+(epstopdf)                    size: 48039 bytes
+(epstopdf)             Output file: <./4/noE_F1F7_area-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-02-09 00:22:14
+(epstopdf)                    size: 19116 bytes
+(epstopdf)             Command: <repstopdf --outfile=./4/noE_F1F7_area-eps-conv
+erted-to.pdf ./4/noE_F1F7_area.eps>
+(epstopdf)             \includegraphics on input line 421.
+Package epstopdf Info: Output file is already uptodate.
+<./4/noE_F1F7_area-eps-converted-to.pdf, id=147, 421.575pt x 316.18124pt>
+File: ./4/noE_F1F7_area-eps-converted-to.pdf Graphic file (type pdf)
+<use ./4/noE_F1F7_area-eps-converted-to.pdf>
+Package pdftex.def Info: ./4/noE_F1F7_area-eps-converted-to.pdf  used on input 
+line 421.
+(pdftex.def)             Requested size: 195.63815pt x 146.72845pt.
+Package epstopdf Info: Source file: <./4/noE_F4F7_area.eps>
+(epstopdf)                    date: 2021-02-07 23:32:32
+(epstopdf)                    size: 51399 bytes
+(epstopdf)             Output file: <./4/noE_F4F7_area-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-02-09 00:22:16
+(epstopdf)                    size: 21421 bytes
+(epstopdf)             Command: <repstopdf --outfile=./4/noE_F4F7_area-eps-conv
+erted-to.pdf ./4/noE_F4F7_area.eps>
+(epstopdf)             \includegraphics on input line 426.
+Package epstopdf Info: Output file is already uptodate.
+<./4/noE_F4F7_area-eps-converted-to.pdf, id=148, 421.575pt x 316.18124pt>
+File: ./4/noE_F4F7_area-eps-converted-to.pdf Graphic file (type pdf)
+<use ./4/noE_F4F7_area-eps-converted-to.pdf>
+Package pdftex.def Info: ./4/noE_F4F7_area-eps-converted-to.pdf  used on input 
+line 426.
+(pdftex.def)             Requested size: 195.63815pt x 146.72845pt.
+Package epstopdf Info: Source file: <./4/noE_F7F8_area_2.eps>
+(epstopdf)                    date: 2021-02-08 10:27:50
+(epstopdf)                    size: 123679 bytes
+(epstopdf)             Output file: <./4/noE_F7F8_area_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-02-09 00:22:18
+(epstopdf)                    size: 46200 bytes
+(epstopdf)             Command: <repstopdf --outfile=./4/noE_F7F8_area_2-eps-co
+nverted-to.pdf ./4/noE_F7F8_area_2.eps>
+(epstopdf)             \includegraphics on input line 431.
+Package epstopdf Info: Output file is already uptodate.
+<./4/noE_F7F8_area_2-eps-converted-to.pdf, id=149, 421.575pt x 316.18124pt>
+File: ./4/noE_F7F8_area_2-eps-converted-to.pdf Graphic file (type pdf)
+<use ./4/noE_F7F8_area_2-eps-converted-to.pdf>
+Package pdftex.def Info: ./4/noE_F7F8_area_2-eps-converted-to.pdf  used on inpu
+t line 431.
+(pdftex.def)             Requested size: 195.63815pt x 146.72845pt.
+Package epstopdf Info: Source file: <./4/noE_F5F9_area.eps>
+(epstopdf)                    date: 2021-02-08 00:18:40
+(epstopdf)                    size: 237747 bytes
+(epstopdf)             Output file: <./4/noE_F5F9_area-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-02-09 00:22:20
+(epstopdf)                    size: 82546 bytes
+(epstopdf)             Command: <repstopdf --outfile=./4/noE_F5F9_area-eps-conv
+erted-to.pdf ./4/noE_F5F9_area.eps>
+(epstopdf)             \includegraphics on input line 436.
+Package epstopdf Info: Output file is already uptodate.
+<./4/noE_F5F9_area-eps-converted-to.pdf, id=150, 421.575pt x 316.18124pt>
+File: ./4/noE_F5F9_area-eps-converted-to.pdf Graphic file (type pdf)
+<use ./4/noE_F5F9_area-eps-converted-to.pdf>
+Package pdftex.def Info: ./4/noE_F5F9_area-eps-converted-to.pdf  used on input 
+line 436.
+(pdftex.def)             Requested size: 195.63815pt x 146.72845pt.
+[8 <./4/noE_F1F7_650.jpg> <./4/noE_F7F8_860.jpg> <./4/noE_F5F9_4500.jpg>]
+<./4/temp.jpg, id=155, 385.44pt x 253.69781pt>
+File: ./4/temp.jpg Graphic file (type jpg)
+<use ./4/temp.jpg>
+Package pdftex.def Info: ./4/temp.jpg  used on input line 451.
+(pdftex.def)             Requested size: 215.20645pt x 141.64784pt.
+<./4/precipitation.jpg, id=156, 396.35577pt x 249.93375pt>
+File: ./4/precipitation.jpg Graphic file (type jpg)
+<use ./4/precipitation.jpg>
+Package pdftex.def Info: ./4/precipitation.jpg  used on input line 454.
+(pdftex.def)             Requested size: 220.09479pt x 138.78732pt.
+
+[9 <./4/noE_F1F7_area-eps-converted-to.pdf> <./4/noE_F4F7_area-eps-converted-to
+.pdf> <./4/noE_F7F8_area_2-eps-converted-to.pdf> <./4/noE_F5F9_area-eps-convert
+ed-to.pdf> <./4/temp.jpg> <./4/precipitation.jpg>]
+
+LaTeX Warning: Reference `sec3.1' on page 10 undefined on input line 479.
+
+Package epstopdf Info: Source file: <./4/E_F1F7_area.eps>
+(epstopdf)                    date: 2021-02-07 23:15:30
+(epstopdf)                    size: 142399 bytes
+(epstopdf)             Output file: <./4/E_F1F7_area-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-02-09 00:22:22
+(epstopdf)                    size: 49818 bytes
+(epstopdf)             Command: <repstopdf --outfile=./4/E_F1F7_area-eps-conver
+ted-to.pdf ./4/E_F1F7_area.eps>
+(epstopdf)             \includegraphics on input line 485.
+Package epstopdf Info: Output file is already uptodate.
+<./4/E_F1F7_area-eps-converted-to.pdf, id=180, 421.575pt x 316.18124pt>
+File: ./4/E_F1F7_area-eps-converted-to.pdf Graphic file (type pdf)
+<use ./4/E_F1F7_area-eps-converted-to.pdf>
+Package pdftex.def Info: ./4/E_F1F7_area-eps-converted-to.pdf  used on input li
+ne 485.
+(pdftex.def)             Requested size: 195.63815pt x 146.72845pt.
+Package epstopdf Info: Source file: <./4/E_F4F7_area.eps>
+(epstopdf)                    date: 2021-02-08 10:05:20
+(epstopdf)                    size: 218996 bytes
+(epstopdf)             Output file: <./4/E_F4F7_area-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-02-09 00:22:24
+(epstopdf)                    size: 71418 bytes
+(epstopdf)             Command: <repstopdf --outfile=./4/E_F4F7_area-eps-conver
+ted-to.pdf ./4/E_F4F7_area.eps>
+(epstopdf)             \includegraphics on input line 490.
+Package epstopdf Info: Output file is already uptodate.
+<./4/E_F4F7_area-eps-converted-to.pdf, id=181, 421.575pt x 316.18124pt>
+File: ./4/E_F4F7_area-eps-converted-to.pdf Graphic file (type pdf)
+<use ./4/E_F4F7_area-eps-converted-to.pdf>
+Package pdftex.def Info: ./4/E_F4F7_area-eps-converted-to.pdf  used on input li
+ne 490.
+(pdftex.def)             Requested size: 195.63815pt x 146.72845pt.
+Package epstopdf Info: Source file: <./4/E_F7F8_area.eps>
+(epstopdf)                    date: 2021-02-08 10:18:28
+(epstopdf)                    size: 152515 bytes
+(epstopdf)             Output file: <./4/E_F7F8_area-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-02-09 00:22:26
+(epstopdf)                    size: 53853 bytes
+(epstopdf)             Command: <repstopdf --outfile=./4/E_F7F8_area-eps-conver
+ted-to.pdf ./4/E_F7F8_area.eps>
+(epstopdf)             \includegraphics on input line 495.
+Package epstopdf Info: Output file is already uptodate.
+<./4/E_F7F8_area-eps-converted-to.pdf, id=182, 421.575pt x 316.18124pt>
+File: ./4/E_F7F8_area-eps-converted-to.pdf Graphic file (type pdf)
+<use ./4/E_F7F8_area-eps-converted-to.pdf>
+Package pdftex.def Info: ./4/E_F7F8_area-eps-converted-to.pdf  used on input li
+ne 495.
+(pdftex.def)             Requested size: 195.63815pt x 146.72845pt.
+Package epstopdf Info: Source file: <./4/E_F5F9_area_2.eps>
+(epstopdf)                    date: 2021-02-08 00:36:54
+(epstopdf)                    size: 153897 bytes
+(epstopdf)             Output file: <./4/E_F5F9_area_2-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-02-09 00:22:28
+(epstopdf)                    size: 56489 bytes
+(epstopdf)             Command: <repstopdf --outfile=./4/E_F5F9_area_2-eps-conv
+erted-to.pdf ./4/E_F5F9_area_2.eps>
+(epstopdf)             \includegraphics on input line 500.
+Package epstopdf Info: Output file is already uptodate.
+<./4/E_F5F9_area_2-eps-converted-to.pdf, id=183, 421.575pt x 316.18124pt>
+File: ./4/E_F5F9_area_2-eps-converted-to.pdf Graphic file (type pdf)
+<use ./4/E_F5F9_area_2-eps-converted-to.pdf>
+Package pdftex.def Info: ./4/E_F5F9_area_2-eps-converted-to.pdf  used on input 
+line 500.
+(pdftex.def)             Requested size: 195.63815pt x 146.72845pt.
+<./4/E_F4F7_2500.jpg, id=184, 862.72313pt x 673.01437pt>
+File: ./4/E_F4F7_2500.jpg Graphic file (type jpg)
+<use ./4/E_F4F7_2500.jpg>
+Package pdftex.def Info: ./4/E_F4F7_2500.jpg  used on input line 519.
+(pdftex.def)             Requested size: 146.73235pt x 114.46227pt.
+<./4/E_F7F8_1550.jpg, id=185, 871.75688pt x 676.02562pt>
+File: ./4/E_F7F8_1550.jpg Graphic file (type jpg)
+<use ./4/E_F7F8_1550.jpg>
+Package pdftex.def Info: ./4/E_F7F8_1550.jpg  used on input line 524.
+(pdftex.def)             Requested size: 146.73235pt x 113.77783pt.
+<./4/E_F5F9_3920.jpg, id=186, 862.72313pt x 665.48625pt>
+File: ./4/E_F5F9_3920.jpg Graphic file (type jpg)
+<use ./4/E_F5F9_3920.jpg>
+Package pdftex.def Info: ./4/E_F5F9_3920.jpg  used on input line 529.
+(pdftex.def)             Requested size: 146.73235pt x 113.18193pt.
+[10 <./4/E_F1F7_area-eps-converted-to.pdf> <./4/E_F4F7_area-eps-converted-to.pd
+f> <./4/E_F7F8_area-eps-converted-to.pdf> <./4/E_F5F9_area_2-eps-converted-to.p
+df>]
+
+LaTeX Warning: Reference `noE_F5F9_4500' on page 11 undefined on input line 538
+.
+
+Package epstopdf Info: Source file: <./4/T_fluc.eps>
+(epstopdf)                    date: 2021-02-07 15:00:24
+(epstopdf)                    size: 17208 bytes
+(epstopdf)             Output file: <./4/T_fluc-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-02-09 00:22:30
+(epstopdf)                    size: 7269 bytes
+(epstopdf)             Command: <repstopdf --outfile=./4/T_fluc-eps-converted-t
+o.pdf ./4/T_fluc.eps>
+(epstopdf)             \includegraphics on input line 546.
+Package epstopdf Info: Output file is already uptodate.
+<./4/T_fluc-eps-converted-to.pdf, id=211, 421.575pt x 316.18124pt>
+File: ./4/T_fluc-eps-converted-to.pdf Graphic file (type pdf)
+<use ./4/T_fluc-eps-converted-to.pdf>
+Package pdftex.def Info: ./4/T_fluc-eps-converted-to.pdf  used on input line 54
+6.
+(pdftex.def)             Requested size: 205.4223pt x 154.06656pt.
+Package epstopdf Info: Source file: <./4/m_fluc.eps>
+(epstopdf)                    date: 2021-02-07 15:09:20
+(epstopdf)                    size: 16546 bytes
+(epstopdf)             Output file: <./4/m_fluc-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-02-09 00:22:32
+(epstopdf)                    size: 6238 bytes
+(epstopdf)             Command: <repstopdf --outfile=./4/m_fluc-eps-converted-t
+o.pdf ./4/m_fluc.eps>
+(epstopdf)             \includegraphics on input line 549.
+Package epstopdf Info: Output file is already uptodate.
+<./4/m_fluc-eps-converted-to.pdf, id=212, 421.575pt x 316.18124pt>
+File: ./4/m_fluc-eps-converted-to.pdf Graphic file (type pdf)
+<use ./4/m_fluc-eps-converted-to.pdf>
+Package pdftex.def Info: ./4/m_fluc-eps-converted-to.pdf  used on input line 54
+9.
+(pdftex.def)             Requested size: 205.4223pt x 154.06656pt.
+
+LaTeX Warning: Citation `' on page 11 undefined on input line 555.
+
+
+LaTeX Warning: Citation `' on page 11 undefined on input line 555.
+
+<./picture/SJflow.pdf, id=213, 616.22218pt x 425.67029pt>
+File: ./picture/SJflow.pdf Graphic file (type pdf)
+<use ./picture/SJflow.pdf>
+Package pdftex.def Info: ./picture/SJflow.pdf  used on input line 559.
+(pdftex.def)             Requested size: 220.09479pt x 152.03307pt.
+<./picture/12for5.pdf, id=214, 421.575pt x 316.18124pt>
+File: ./picture/12for5.pdf Graphic file (type pdf)
+<use ./picture/12for5.pdf>
+Package pdftex.def Info: ./picture/12for5.pdf  used on input line 562.
+(pdftex.def)             Requested size: 220.09479pt x 165.07132pt.
+[11 <./4/E_F4F7_2500.jpg> <./4/E_F7F8_1550.jpg> <./4/E_F5F9_3920.jpg> <./4/T_fl
+uc-eps-converted-to.pdf> <./4/m_fluc-eps-converted-to.pdf>]
+<./picture/3vs12.pdf, id=231, 421.575pt x 316.18124pt>
+File: ./picture/3vs12.pdf Graphic file (type pdf)
+<use ./picture/3vs12.pdf>
+Package pdftex.def Info: ./picture/3vs12.pdf  used on input line 571.
+(pdftex.def)             Requested size: 227.6278pt x 170.71652pt.
+<./figures/five.png, id=232, 780.0342pt x 287.6346pt>
+File: ./figures/five.png Graphic file (type png)
+<use ./figures/five.png>
+Package pdftex.def Info: ./figures/five.png  used on input line 583.
+(pdftex.def)             Requested size: 462.97752pt x 170.71652pt.
+ [12 <./picture/SJflow.pdf> <./picture/12for5.pdf> <./picture/3vs12.pdf>]
+Package epstopdf Info: Source file: <./formal/tropical/1-5.eps>
+(epstopdf)                    date: 2021-02-08 10:20:32
+(epstopdf)                    size: 46669 bytes
+(epstopdf)             Output file: <./formal/tropical/1-5-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2021-02-09 00:22:34
+(epstopdf)                    size: 15167 bytes
+(epstopdf)             Command: <repstopdf --outfile=./formal/tropical/1-5-eps-
+converted-to.pdf ./formal/tropical/1-5.eps>
+(epstopdf)             \includegraphics on input line 596.
+Package epstopdf Info: Output file is already uptodate.
+<./formal/tropical/1-5-eps-converted-to.pdf, id=253, 663.47874pt x 452.69125pt>
+
+File: ./formal/tropical/1-5-eps-converted-to.pdf Graphic file (type pdf)
+<use ./formal/tropical/1-5-eps-converted-to.pdf>
+Package pdftex.def Info: ./formal/tropical/1-5-eps-converted-to.pdf  used on in
+put line 596.
+(pdftex.def)             Requested size: 166.80066pt x 113.81102pt.
+
+Overfull \hbox (4.80084pt too wide) in paragraph at lines 596--597
+[][] 
+ []
+
+Package epstopdf Info: Source file: <./formal/tropical/6&9-12.eps>
+(epstopdf)                    date: 2021-02-08 10:27:58
+(epstopdf)                    size: 43705 bytes
+(epstopdf)             Output file: <./formal/tropical/6&9-12-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2021-02-09 00:22:36
+(epstopdf)                    size: 16834 bytes
+(epstopdf)             Command: <repstopdf --outfile=./formal/tropical/6&9-12-e
+ps-converted-to.pdf ./formal/tropical/6&9-12.eps>
+(epstopdf)             \includegraphics on input line 602.
+Package epstopdf Info: Output file is already uptodate.
+<./formal/tropical/6&9-12-eps-converted-to.pdf, id=254, 629.35126pt x 436.63126
+pt>
+File: ./formal/tropical/6&9-12-eps-converted-to.pdf Graphic file (type pdf)
+<use ./formal/tropical/6&9-12-eps-converted-to.pdf>
+Package pdftex.def Info: ./formal/tropical/6&9-12-eps-converted-to.pdf  used on
+ input line 602.
+(pdftex.def)             Requested size: 164.04039pt x 113.81102pt.
+<./formal/tropical/78.png, id=255, 599.3592pt x 381.1038pt>
+File: ./formal/tropical/78.png Graphic file (type png)
+<use ./formal/tropical/78.png>
+Package pdftex.def Info: ./formal/tropical/78.png  used on input line 608.
+(pdftex.def)             Requested size: 178.98605pt x 113.81102pt.
+
+Overfull \hbox (22.38623pt too wide) in paragraph at lines 608--609
+ [][] 
+ []
+
+[13 <./figures/five.png> <./formal/tropical/1-5-eps-converted-to.pdf> <./formal
+/tropical/6&9-12-eps-converted-to.pdf> <./formal/tropical/78.png>]
+<./formal/tropical/159[3].png, id=271, 579.1236pt x 416.757pt>
+File: ./formal/tropical/159[3].png Graphic file (type png)
+<use ./formal/tropical/159[3].png>
+Package pdftex.def Info: ./formal/tropical/159[3].png  used on input line 635.
+(pdftex.def)             Requested size: 166.05931pt x 119.50148pt.
+
+Overfull \hbox (4.0595pt too wide) in paragraph at lines 635--636
+[][] 
+ []
+
+<./formal/tropical/2612[2].png, id=272, 588.7596pt x 421.575pt>
+File: ./formal/tropical/2612[2].png Graphic file (type png)
+<use ./formal/tropical/2612[2].png>
+Package pdftex.def Info: ./formal/tropical/2612[2].png  used on input line 641.
+
+(pdftex.def)             Requested size: 166.89087pt x 119.50148pt.
+
+Overfull \hbox (2.19106pt too wide) in paragraph at lines 641--642
+ [][] 
+ []
+
+<./formal/tropical/6710[3].png, id=273, 552.1428pt x 396.5214pt>
+File: ./formal/tropical/6710[3].png Graphic file (type png)
+<use ./formal/tropical/6710[3].png>
+Package pdftex.def Info: ./formal/tropical/6710[3].png  used on input line 647.
+
+(pdftex.def)             Requested size: 166.40237pt x 119.50148pt.
+
+Overfull \hbox (9.80255pt too wide) in paragraph at lines 647--648
+ [][] 
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 653.
+
+<./formal/tropical/11[3].png, id=274, 521.3076pt x 421.575pt>
+File: ./formal/tropical/11[3].png Graphic file (type png)
+<use ./formal/tropical/11[3].png>
+Package pdftex.def Info: ./formal/tropical/11[3].png  used on input line 656.
+(pdftex.def)             Requested size: 168.88205pt x 136.5733pt.
+
+Overfull \hbox (12.28223pt too wide) in paragraph at lines 656--657
+[][] 
+ []
+
+<./formal/tropical/11[2].png, id=275, 663.9204pt x 443.7378pt>
+File: ./formal/tropical/11[2].png Graphic file (type png)
+<use ./formal/tropical/11[2].png>
+Package pdftex.def Info: ./formal/tropical/11[2].png  used on input line 662.
+(pdftex.def)             Requested size: 183.04974pt x 122.34692pt.
+
+Overfull \hbox (15.64993pt too wide) in paragraph at lines 662--663
+[][] 
+ []
+
+<./formal/tropical/11[1].png, id=276, 663.9204pt x 443.7378pt>
+File: ./formal/tropical/11[1].png Graphic file (type png)
+<use ./formal/tropical/11[1].png>
+Package pdftex.def Info: ./formal/tropical/11[1].png  used on input line 667.
+(pdftex.def)             Requested size: 178.79489pt x 119.50148pt.
+
+Overfull \hbox (22.19507pt too wide) in paragraph at lines 667--668
+ [][] 
+ []
+
+[14 <./formal/tropical/159[3].png> <./formal/tropical/2612[2].png> <./formal/tr
+opical/6710[3].png>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 699.
+
+<./formal/arid/12[3].png, id=283, 464.4552pt x 368.577pt>
+File: ./formal/arid/12[3].png Graphic file (type png)
+<use ./formal/arid/12[3].png>
+Package pdftex.def Info: ./formal/arid/12[3].png  used on input line 702.
+(pdftex.def)             Requested size: 150.5847pt x 119.50148pt.
+Package epstopdf Info: Source file: <./formal/arid/12.eps>
+(epstopdf)                    date: 2021-02-08 12:22:12
+(epstopdf)                    size: 772284 bytes
+(epstopdf)             Output file: <./formal/arid/12-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-02-09 00:22:39
+(epstopdf)                    size: 242193 bytes
+(epstopdf)             Command: <repstopdf --outfile=./formal/arid/12-eps-conve
+rted-to.pdf ./formal/arid/12.eps>
+(epstopdf)             \includegraphics on input line 707.
+Package epstopdf Info: Output file is already uptodate.
+<./formal/arid/12-eps-converted-to.pdf, id=284, 643.40375pt x 416.55624pt>
+File: ./formal/arid/12-eps-converted-to.pdf Graphic file (type pdf)
+<use ./formal/arid/12-eps-converted-to.pdf>
+Package pdftex.def Info: ./formal/arid/12-eps-converted-to.pdf  used on input l
+ine 707.
+(pdftex.def)             Requested size: 184.57953pt x 119.50148pt.
+
+Overfull \hbox (17.17972pt too wide) in paragraph at lines 707--708
+[][] 
+ []
+
+Package epstopdf Info: Source file: <./formal/arid/12[2].eps>
+(epstopdf)                    date: 2021-02-08 12:19:40
+(epstopdf)                    size: 92490 bytes
+(epstopdf)             Output file: <./formal/arid/12[2]-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-02-09 00:22:41
+(epstopdf)                    size: 30238 bytes
+(epstopdf)             Command: <repstopdf --outfile=./formal/arid/12[2]-eps-co
+nverted-to.pdf ./formal/arid/12[2].eps>
+(epstopdf)             \includegraphics on input line 713.
+Package epstopdf Info: Output file is already uptodate.
+<./formal/arid/12[2]-eps-converted-to.pdf, id=285, 632.3625pt x 417.56pt>
+File: ./formal/arid/12[2]-eps-converted-to.pdf Graphic file (type pdf)
+<use ./formal/arid/12[2]-eps-converted-to.pdf>
+Package pdftex.def Info: ./formal/arid/12[2]-eps-converted-to.pdf  used on inpu
+t line 713.
+(pdftex.def)             Requested size: 180.96815pt x 119.50148pt.
+
+Overfull \hbox (36.36833pt too wide) in paragraph at lines 712--714
+[] [] 
+ []
+
+[15 <./formal/tropical/11[3].png> <./formal/tropical/11[2].png> <./formal/tropi
+cal/11[1].png>]
+<./formal/semi-arid/12[1].png, id=292, 340.6326pt x 278.9622pt>
+File: ./formal/semi-arid/12[1].png Graphic file (type png)
+<use ./formal/semi-arid/12[1].png>
+Package pdftex.def Info: ./formal/semi-arid/12[1].png  used on input line 741.
+(pdftex.def)             Requested size: 152.86743pt x 125.19194pt.
+Package epstopdf Info: Source file: <./formal/semi-arid/12[2].eps>
+(epstopdf)                    date: 2021-02-08 13:54:46
+(epstopdf)                    size: 783861 bytes
+(epstopdf)             Output file: <./formal/semi-arid/12[2]-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2021-02-09 00:22:43
+(epstopdf)                    size: 275225 bytes
+(epstopdf)             Command: <repstopdf --outfile=./formal/semi-arid/12[2]-e
+ps-converted-to.pdf ./formal/semi-arid/12[2].eps>
+(epstopdf)             \includegraphics on input line 746.
+Package epstopdf Info: Output file is already uptodate.
+<./formal/semi-arid/12[2]-eps-converted-to.pdf, id=293, 643.40375pt x 434.62375
+pt>
+File: ./formal/semi-arid/12[2]-eps-converted-to.pdf Graphic file (type pdf)
+<use ./formal/semi-arid/12[2]-eps-converted-to.pdf>
+Package pdftex.def Info: ./formal/semi-arid/12[2]-eps-converted-to.pdf  used on
+ input line 746.
+(pdftex.def)             Requested size: 181.11394pt x 122.34692pt.
+
+Overfull \hbox (13.71413pt too wide) in paragraph at lines 746--747
+[][] 
+ []
+
+Package epstopdf Info: Source file: <./formal/semi-arid/12[3].eps>
+(epstopdf)                    date: 2021-02-08 14:00:30
+(epstopdf)                    size: 93008 bytes
+(epstopdf)             Output file: <./formal/semi-arid/12[3]-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2021-02-09 00:22:45
+(epstopdf)                    size: 32085 bytes
+(epstopdf)             Command: <repstopdf --outfile=./formal/semi-arid/12[3]-e
+ps-converted-to.pdf ./formal/semi-arid/12[3].eps>
+(epstopdf)             \includegraphics on input line 752.
+Package epstopdf Info: Output file is already uptodate.
+<./formal/semi-arid/12[3]-eps-converted-to.pdf, id=294, 643.40375pt x 431.6125p
+t>
+File: ./formal/semi-arid/12[3]-eps-converted-to.pdf Graphic file (type pdf)
+<use ./formal/semi-arid/12[3]-eps-converted-to.pdf>
+Package pdftex.def Info: ./formal/semi-arid/12[3]-eps-converted-to.pdf  used on
+ input line 752.
+(pdftex.def)             Requested size: 178.13922pt x 119.50148pt.
+
+Overfull \hbox (33.5394pt too wide) in paragraph at lines 751--753
+[] [] 
+ []
+
+[16 <./formal/arid/12[3].png> <./formal/arid/12-eps-converted-to.pdf> <./formal
+/arid/12[2]-eps-converted-to.pdf> <./formal/semi-arid/12[1].png> <./formal/semi
+-arid/12[2]-eps-converted-to.pdf> <./formal/semi-arid/12[3]-eps-converted-to.pd
+f>]
+<./formal/temperate/12[1].png, id=320, 344.487pt x 275.5896pt>
+File: ./formal/temperate/12[1].png Graphic file (type png)
+<use ./formal/temperate/12[1].png>
+Package pdftex.def Info: ./formal/temperate/12[1].png  used on input line 788.
+(pdftex.def)             Requested size: 156.48952pt x 125.19194pt.
+Package epstopdf Info: Source file: <./formal/temperate/12[2].eps>
+(epstopdf)                    date: 2021-02-08 16:47:54
+(epstopdf)                    size: 779209 bytes
+(epstopdf)             Output file: <./formal/temperate/12[2]-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2021-02-09 00:22:48
+(epstopdf)                    size: 268717 bytes
+(epstopdf)             Command: <repstopdf --outfile=./formal/temperate/12[2]-e
+ps-converted-to.pdf ./formal/temperate/12[2].eps>
+(epstopdf)             \includegraphics on input line 793.
+Package epstopdf Info: Output file is already uptodate.
+<./formal/temperate/12[2]-eps-converted-to.pdf, id=321, 603.25375pt x 432.61626
+pt>
+File: ./formal/temperate/12[2]-eps-converted-to.pdf Graphic file (type pdf)
+<use ./formal/temperate/12[2]-eps-converted-to.pdf>
+Package pdftex.def Info: ./formal/temperate/12[2]-eps-converted-to.pdf  used on
+ input line 793.
+(pdftex.def)             Requested size: 174.5709pt x 125.19194pt.
+
+Overfull \hbox (7.1711pt too wide) in paragraph at lines 793--794
+[][] 
+ []
+
+Package epstopdf Info: Source file: <./formal/temperate/12[3].eps>
+(epstopdf)                    date: 2021-02-08 16:48:14
+(epstopdf)                    size: 92300 bytes
+(epstopdf)             Output file: <./formal/temperate/12[3]-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2021-02-09 00:22:50
+(epstopdf)                    size: 30575 bytes
+(epstopdf)             Command: <repstopdf --outfile=./formal/temperate/12[3]-e
+ps-converted-to.pdf ./formal/temperate/12[3].eps>
+(epstopdf)             \includegraphics on input line 799.
+Package epstopdf Info: Output file is already uptodate.
+<./formal/temperate/12[3]-eps-converted-to.pdf, id=322, 603.25375pt x 432.61626
+pt>
+File: ./formal/temperate/12[3]-eps-converted-to.pdf Graphic file (type pdf)
+<use ./formal/temperate/12[3]-eps-converted-to.pdf>
+Package pdftex.def Info: ./formal/temperate/12[3]-eps-converted-to.pdf  used on
+ input line 799.
+(pdftex.def)             Requested size: 174.5709pt x 125.19194pt.
+
+Overfull \hbox (29.97108pt too wide) in paragraph at lines 798--800
+[] [] 
+ []
+
+[17 <./formal/temperate/12[1].png> <./formal/temperate/12[2]-eps-converted-to.p
+df> <./formal/temperate/12[3]-eps-converted-to.pdf>]
+<./formal/arboreal/12[1].png, id=337, 476.5002pt x 385.9218pt>
+File: ./formal/arboreal/12[1].png Graphic file (type png)
+<use ./formal/arboreal/12[1].png>
+Package pdftex.def Info: ./formal/arboreal/12[1].png  used on input line 833.
+(pdftex.def)             Requested size: 154.57716pt x 125.19194pt.
+Package epstopdf Info: Source file: <./formal/arboreal/12[2].eps>
+(epstopdf)                    date: 2021-02-08 16:25:50
+(epstopdf)                    size: 719634 bytes
+(epstopdf)             Output file: <./formal/arboreal/12[2]-eps-converted-to.p
+df>
+(epstopdf)                    date: 2021-02-09 00:22:52
+(epstopdf)                    size: 256004 bytes
+(epstopdf)             Command: <repstopdf --outfile=./formal/arboreal/12[2]-ep
+s-converted-to.pdf ./formal/arboreal/12[2].eps>
+(epstopdf)             \includegraphics on input line 838.
+Package epstopdf Info: Output file is already uptodate.
+<./formal/arboreal/12[2]-eps-converted-to.pdf, id=338, 603.25375pt x 414.54875p
+t>
+File: ./formal/arboreal/12[2]-eps-converted-to.pdf Graphic file (type pdf)
+<use ./formal/arboreal/12[2]-eps-converted-to.pdf>
+Package pdftex.def Info: ./formal/arboreal/12[2]-eps-converted-to.pdf  used on 
+input line 838.
+(pdftex.def)             Requested size: 178.03195pt x 122.34692pt.
+
+Overfull \hbox (10.63214pt too wide) in paragraph at lines 838--839
+[][] 
+ []
+
+Package epstopdf Info: Source file: <./formal/arboreal/12[3].eps>
+(epstopdf)                    date: 2021-02-08 16:26:08
+(epstopdf)                    size: 85483 bytes
+(epstopdf)             Output file: <./formal/arboreal/12[3]-eps-converted-to.p
+df>
+(epstopdf)                    date: 2021-02-09 00:22:54
+(epstopdf)                    size: 29604 bytes
+(epstopdf)             Command: <repstopdf --outfile=./formal/arboreal/12[3]-ep
+s-converted-to.pdf ./formal/arboreal/12[3].eps>
+(epstopdf)             \includegraphics on input line 844.
+Package epstopdf Info: Output file is already uptodate.
+<./formal/arboreal/12[3]-eps-converted-to.pdf, id=339, 603.25375pt x 414.54875p
+t>
+File: ./formal/arboreal/12[3]-eps-converted-to.pdf Graphic file (type pdf)
+<use ./formal/arboreal/12[3]-eps-converted-to.pdf>
+Package pdftex.def Info: ./formal/arboreal/12[3]-eps-converted-to.pdf  used on 
+input line 844.
+(pdftex.def)             Requested size: 173.89894pt x 119.50148pt.
+
+Overfull \hbox (29.29912pt too wide) in paragraph at lines 843--845
+[] [] 
+ []
+
+[18 <./formal/arboreal/12[1].png> <./formal/arboreal/12[2]-eps-converted-to.pdf
+> <./formal/arboreal/12[3]-eps-converted-to.pdf>]
+Overfull \hbox (8.21712pt too wide) in paragraph at lines 875--886
+ [][] 
+ []
+
+<./T5Figure/K1N1/K1N1L.pdf, id=355, 421.575pt x 316.18124pt>
+File: ./T5Figure/K1N1/K1N1L.pdf Graphic file (type pdf)
+<use ./T5Figure/K1N1/K1N1L.pdf>
+Package pdftex.def Info: ./T5Figure/K1N1/K1N1L.pdf  used on input line 893.
+(pdftex.def)             Requested size: 146.73235pt x 110.04755pt.
+<./T5Figure/K1N2/K1N2L.pdf, id=356, 421.575pt x 316.18124pt>
+File: ./T5Figure/K1N2/K1N2L.pdf Graphic file (type pdf)
+<use ./T5Figure/K1N2/K1N2L.pdf>
+Package pdftex.def Info: ./T5Figure/K1N2/K1N2L.pdf  used on input line 897.
+(pdftex.def)             Requested size: 146.73235pt x 110.04755pt.
+<./T5Figure/K2N1/K2N1L.pdf, id=357, 421.575pt x 316.18124pt>
+File: ./T5Figure/K2N1/K2N1L.pdf Graphic file (type pdf)
+<use ./T5Figure/K2N1/K2N1L.pdf>
+Package pdftex.def Info: ./T5Figure/K2N1/K2N1L.pdf  used on input line 901.
+(pdftex.def)             Requested size: 146.73235pt x 110.04755pt.
+<./T5Figure/K2N2/K2N2L.pdf, id=358, 421.575pt x 316.18124pt>
+File: ./T5Figure/K2N2/K2N2L.pdf Graphic file (type pdf)
+<use ./T5Figure/K2N2/K2N2L.pdf>
+Package pdftex.def Info: ./T5Figure/K2N2/K2N2L.pdf  used on input line 905.
+(pdftex.def)             Requested size: 146.73235pt x 110.04755pt.
+<./T5Figure/K4N1/K4N1L.pdf, id=359, 421.575pt x 316.18124pt>
+File: ./T5Figure/K4N1/K4N1L.pdf Graphic file (type pdf)
+<use ./T5Figure/K4N1/K4N1L.pdf>
+Package pdftex.def Info: ./T5Figure/K4N1/K4N1L.pdf  used on input line 909.
+(pdftex.def)             Requested size: 146.73235pt x 110.04755pt.
+Package epstopdf Info: Source file: <./T5Figure/T5overAll.eps>
+(epstopdf)                    date: 2021-02-08 16:35:28
+(epstopdf)                    size: 144187 bytes
+(epstopdf)             Output file: <./T5Figure/T5overAll-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2021-02-08 16:35:50
+(epstopdf)                    size: 49785 bytes
+(epstopdf)             Command: <repstopdf --outfile=./T5Figure/T5overAll-eps-c
+onverted-to.pdf ./T5Figure/T5overAll.eps>
+(epstopdf)             \includegraphics on input line 920.
+Package epstopdf Info: Output file is already uptodate.
+<./T5Figure/T5overAll-eps-converted-to.pdf, id=360, 421.575pt x 316.18124pt>
+File: ./T5Figure/T5overAll-eps-converted-to.pdf Graphic file (type pdf)
+<use ./T5Figure/T5overAll-eps-converted-to.pdf>
+Package pdftex.def Info: ./T5Figure/T5overAll-eps-converted-to.pdf  used on inp
+ut line 920.
+(pdftex.def)             Requested size: 235.21196pt x 176.407pt.
+[19 <./T5Figure/K1N1/K1N1L.pdf> <./T5Figure/K1N2/K1N2L.pdf> <./T5Figure/K2N1/K2
+N1L.pdf> <./T5Figure/K2N2/K2N2L.pdf> <./T5Figure/K4N1/K4N1L.pdf>] [20 <./T5Figu
+re/T5overAll-eps-converted-to.pdf>]
+<./picture/sensitivity.pdf, id=399, 505.89pt x 362.35374pt>
+File: ./picture/sensitivity.pdf Graphic file (type pdf)
+<use ./picture/sensitivity.pdf>
+Package pdftex.def Info: ./picture/sensitivity.pdf  used on input line 947.
+(pdftex.def)             Requested size: 238.33954pt x 170.71652pt.
+ [21 <./picture/sensitivity.pdf>]
+Underfull \hbox (badness 1314) in paragraph at lines 975--976
+[]\T1/ntxtlf/m/n/12 Maynard, D.S., Brad-ford, M.A., Covey, K.R. et al. "Con-sis
+-tent trade-offs in fun-gal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 989--990
+[]\T1/ntxtlf/m/n/12 "Climate Clas-si-fi-ca-tion and Cli-matic Re-gions of the W
+orld". Fun-da-men-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 989--990
+\T1/ntxtlf/m/n/12 tals Of Phys-i-cal Ge-og-ra-phy, 2nd Ed. Chap-ter 7. web:phys
+icalgeography.net.
+ []
+
+
+Underfull \hbox (badness 2644) in paragraph at lines 991--992
+\T1/ntxtlf/m/n/12 web:worldatlas.com. Feb 5, 2018. URL:https://www.worldatlas.c
+om/articles/what-are-the-
+ []
+
+[22]
+
+pdfTeX warning: pdflatex.exe (file ./article1.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<article1.pdf, id=411, 542.025pt x 782.925pt>
+File: article1.pdf Graphic file (type pdf)
+<use article1.pdf>
+Package pdftex.def Info: article1.pdf  used on input line 1032.
+(pdftex.def)             Requested size: 542.02367pt x 782.9231pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./article1.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+File: article1.pdf Graphic file (type pdf)
+<use article1.pdf>
+Package pdftex.def Info: article1.pdf  used on input line 1032.
+(pdftex.def)             Requested size: 542.02367pt x 782.9231pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./article1.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.exe (file ./article1.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<article1.pdf, id=414, page=1, 542.025pt x 782.925pt>
+File: article1.pdf Graphic file (type pdf)
+<use article1.pdf, page 1>
+Package pdftex.def Info: article1.pdf , page1 used on input line 1032.
+(pdftex.def)             Requested size: 597.50787pt x 863.09576pt.
+File: article1.pdf Graphic file (type pdf)
+<use article1.pdf, page 1>
+Package pdftex.def Info: article1.pdf , page1 used on input line 1032.
+(pdftex.def)             Requested size: 530.74252pt x 766.62811pt.
+File: article1.pdf Graphic file (type pdf)
+<use article1.pdf, page 1>
+Package pdftex.def Info: article1.pdf , page1 used on input line 1032.
+(pdftex.def)             Requested size: 530.74252pt x 766.62811pt.
+File: article1.pdf Graphic file (type pdf)
+<use article1.pdf, page 1>
+Package pdftex.def Info: article1.pdf , page1 used on input line 1032.
+(pdftex.def)             Requested size: 530.74252pt x 766.62811pt.
+File: article1.pdf Graphic file (type pdf)
+<use article1.pdf, page 1>
+Package pdftex.def Info: article1.pdf , page1 used on input line 1034.
+(pdftex.def)             Requested size: 530.74252pt x 766.62811pt.
+[23 <./article1.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./article2.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<article2.pdf, id=469, 542.025pt x 782.925pt>
+File: article2.pdf Graphic file (type pdf)
+<use article2.pdf>
+Package pdftex.def Info: article2.pdf  used on input line 1036.
+(pdftex.def)             Requested size: 542.02367pt x 782.9231pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./article2.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+File: article2.pdf Graphic file (type pdf)
+<use article2.pdf>
+Package pdftex.def Info: article2.pdf  used on input line 1036.
+(pdftex.def)             Requested size: 542.02367pt x 782.9231pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./article2.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.exe (file ./article2.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<article2.pdf, id=472, page=1, 542.025pt x 782.925pt>
+File: article2.pdf Graphic file (type pdf)
+<use article2.pdf, page 1>
+Package pdftex.def Info: article2.pdf , page1 used on input line 1036.
+(pdftex.def)             Requested size: 597.50787pt x 863.09576pt.
+File: article2.pdf Graphic file (type pdf)
+<use article2.pdf, page 1>
+Package pdftex.def Info: article2.pdf , page1 used on input line 1036.
+(pdftex.def)             Requested size: 530.74252pt x 766.62811pt.
+File: article2.pdf Graphic file (type pdf)
+<use article2.pdf, page 1>
+Package pdftex.def Info: article2.pdf , page1 used on input line 1036.
+(pdftex.def)             Requested size: 530.74252pt x 766.62811pt.
+File: article2.pdf Graphic file (type pdf)
+<use article2.pdf, page 1>
+Package pdftex.def Info: article2.pdf , page1 used on input line 1036.
+(pdftex.def)             Requested size: 530.74252pt x 766.62811pt.
+
+AED: lastpage setting LastPage
+File: article2.pdf Graphic file (type pdf)
+<use article2.pdf, page 1>
+Package pdftex.def Info: article2.pdf , page1 used on input line 1042.
+(pdftex.def)             Requested size: 530.74252pt x 766.62811pt.
+[24 <./article2.pdf>] (./2106187.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 12687 strings out of 480608
+ 193612 string characters out of 5907537
+ 538447 words of memory out of 5000000
+ 28213 multiletter control sequences out of 15000+600000
+ 583519 words of font info for 90 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 62i,18n,100p,932b,544s stack positions out of 5000i,500n,10000p,200000b,80000s
+{f:/texlive/2020/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{f:/texlive/20
+20/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{f:/texlive/2020/texmf-dist/
+fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}<f:/texlive/2020/texmf-dist/fonts/type1/p
+ublic/newtx/NewTXMI.pfb><f:/texlive/2020/texmf-dist/fonts/type1/public/newtx/Ne
+wTXMI7.pfb><f:/texlive/2020/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb><f:
+/texlive/2020/texmf-dist/fonts/type1/public/newtx/txexs.pfb><f:/texlive/2020/te
+xmf-dist/fonts/type1/public/newtx/txmiaX.pfb><f:/texlive/2020/texmf-dist/fonts/
+type1/public/newtx/txsys.pfb><f:/texlive/2020/texmf-dist/fonts/type1/public/new
+tx/ztmb.pfb><f:/texlive/2020/texmf-dist/fonts/type1/public/newtx/ztmr.pfb><f:/t
+exlive/2020/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
+Output written on 2106187.pdf (25 pages, 8011237 bytes).
+PDF statistics:
+ 550 PDF objects out of 1000 (max. 8388607)
+ 329 compressed objects within 4 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 346 words of extra memory for PDF output out of 10000 (max. 10000000)
+

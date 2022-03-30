@@ -1,0 +1,33 @@
+\contentsline {section}{\numberline {1}Introduction}{2}%
+\contentsline {subsection}{\numberline {1.1}Background}{2}%
+\contentsline {subsection}{\numberline {1.2}Analysis \& Problem Restatement}{2}%
+\contentsline {section}{\numberline {2}Model Preparation}{3}%
+\contentsline {subsection}{\numberline {2.1}Assumptions}{3}%
+\contentsline {subsection}{\numberline {2.2}Notations}{3}%
+\contentsline {section}{\numberline {3}Model of Wood Breakdown by Multiple Fungi Species}{4}%
+\contentsline {subsection}{\numberline {3.1}Model Overview}{4}%
+\contentsline {subsection}{\numberline {3.2}Calculating Decomposition Rate}{4}%
+\contentsline {subsection}{\numberline {3.3}Competition and Ranking}{5}%
+\contentsline {subsection}{\numberline {3.4}Predicting the Breakdown Process Using CA Modeling}{5}%
+\contentsline {subsection}{\numberline {3.5}The Effect of Hypha Thickness in Interactions}{6}%
+\contentsline {section}{\numberline {4}Visualization}{7}%
+\contentsline {section}{\numberline {5}Analysis of Interactions}{8}%
+\contentsline {subsection}{\numberline {5.1}Fungi's Interactions without Environmental Changes}{8}%
+\contentsline {subsection}{\numberline {5.2}Changing Atmospheric Conditions: Temperature and Moisture}{9}%
+\contentsline {subsection}{\numberline {5.3}Interactions between Fungi with Environmental Changes}{10}%
+\contentsline {subsection}{\numberline {5.4}Impact of Rapid Fluctuations in External Environment}{11}%
+\contentsline {section}{\numberline {6}Fungi Communities in different Environment}{12}%
+\contentsline {subsection}{\numberline {6.1}Example: Tropical Rain Forest}{13}%
+\contentsline {subsection}{\numberline {6.2}Arid climate}{15}%
+\contentsline {subsection}{\numberline {6.3}Semi-arid}{16}%
+\contentsline {subsection}{\numberline {6.4}Temperate}{16}%
+\contentsline {subsection}{\numberline {6.5}Arboreal}{17}%
+\contentsline {section}{\numberline {7}Importance of Biodiversity}{18}%
+\contentsline {subsection}{\numberline {7.1}Fungi Combination Selection}{18}%
+\contentsline {subsection}{\numberline {7.2}Results}{19}%
+\contentsline {section}{\numberline {8}Conclusion}{20}%
+\contentsline {section}{\numberline {9}Sensitivity Analysis}{21}%
+\contentsline {section}{\numberline {10}Strength and Weakness}{21}%
+\contentsline {subsection}{\numberline {10.1}Strength}{21}%
+\contentsline {subsection}{\numberline {10.2}Possible Improvements}{21}%
+\contentsline {section}{\numberline {A}Fungus species data}{22}%

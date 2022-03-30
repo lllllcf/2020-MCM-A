@@ -1,0 +1,15 @@
+\begin{algorithm}[H]
+	\SetAlgoLined
+	\KwIn{$\lambda_0$, $\lambda_{max}$, $\omega$, $x_{0,ini}$, $\delta$, $n_{max}$,}
+	\KwResult{$\Sigma P$, $f_{t1}$, $f_{t2}$, $score$}
+	\While{there are other combinations of $(\lambda, n, x_0)$}{
+		the distribution of the force $f(x)$ \\
+		the position of the rod $g(i, n, L, \lambda)$ \\
+		get the force on each rod $f_i(i, n, F, X, x0)$ \\
+		calculate tention $[f_{i,1}, f_{i,2}] = T_i([x0, y0], [x1, y1], [x2, y2], f_i)$ \\
+		next $(\lambda, n, x_0)$ \\
+	}
+	Data normalization for $(f_{i, 1}, f_{i, 2}, (\Sigma P)_i)$ \\
+	Score $= \frac{\omega}{2}(f_{i, 1} + f_{i, 2}) + (1 - \omega)(\Sigma P)_i$
+	\caption{Optimal Architecture}
+\end{algorithm}

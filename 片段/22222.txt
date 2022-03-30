@@ -1,0 +1,22 @@
+\section{Strength and Weakness}
+\subsection{Strength}
+\begin{itemize}
+	\item A scientific and accurate simulation model is established by using \textbf{cellular automata} in MATLAB. \textbf{Excellent visualization} of fungal growth process makes the output of the model more intuitive, and also adds a lot of fun when solving the model.
+	\item \textbf{Continuous problem discretization}: It is easy to update the model and consider more influence factors. At the same time, it enhances the robustness of the model and makes the model more stable.
+	\item We simulate the change and influence of temperature and moisture in a very \textbf{large range}, including long-term and short-term simulation under eight different conditions (Boston/completely random environment/fixed value/five climate types).
+\end{itemize} 
+\subsection{Possible Improvements}
+\begin{itemize}
+	\item In our model, we only consider the competition relationship between fungi, but there are \textbf{other relationships} between them, such as cooperation.
+	\item As the model becomes larger and larger, the \textbf{time} required to run a simulation code will become correspondingly longer. So when all the factors were taken into account, the computer is not fast enough to support the interaction of more than ten fungi on too many cells.
+\end{itemize}
+\section{Sensitivity Analysis}
+\par In section 5.4, we have proved that our model is \textbf{sensitive to the rapid and drastic changes of temperature and moisture}. This is because different fungi have different optimal temperature and moisture. In our model, although the behavior pattern of each cell is complex, the overall behavior pattern of fungi is predictable according to some existing rules and our simulation results is exactlky consistent with these rules.
+\par \textbf{Initial location} is also an important factor affecting the final results, so in the process of solving all the previous models, the initial position of fungi is fixed. Here we want to test whether the initial position of fungi will have a great impact on the final area occupied by it when there are multiple fungi exists.
+\par The following Fig.\eqref{qwert} shows the results of the sensitivity analysis of the initial position. We fix the temperature and moisture and choose three different fungi (F5/F9/F12) for testing. Before each run of the cellular automata, we randomly generate initial positions for the three fungi and repeate the simulation for 50 times. Finally, we fit three curves for them using Matlab and because the slope of the three curves is close to 0, we can conclude that our model is \textbf{insensitive to the initial position of the fungus when the number of tests is large enough}.
+\begin{figure}[H] 
+	\centering 
+	\includegraphics[height=8cm]{./picture/sensitivity.pdf}
+	\caption{Algorithm schematic}
+	\label{qwert}
+\end{figure}

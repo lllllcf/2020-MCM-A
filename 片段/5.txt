@@ -1,0 +1,64 @@
+\section{Importance of Biodiversity}
+
+\par As introduced in Section 1, the breakdown of ground litter is an important process in ecological cycles. Therefore, the efficiency of decomposition is one of the determinants of the efficiency of ecosystems. In order to study the importance of species diversity of fungi, we are going to test whether the diversity of species will improve the efficiency of decomposition and adaptation to variable environments.
+\subsection{Fungi Combination Selection}
+\par First of all, according to the results of the previous models, we can get the following rules on the selection of fungi.
+\begin{itemize}
+	\item According to the analysis of XXXXXX(task 1 name) and xxxxx(task Boston name), we need to choose species that can coexist peacefully on long-term trends to ensure the \textbf{stability of biodiversity}.
+	\item From xxxxx(fluctuation model name), we can know that the decomposition rate of fungus is sensitive to environmental changes, so the \textbf{adaptability and viability} of fungi are considered prior to the expansion rate of fungi. Moreover, when different fungi are combined, the temperature and moisture niche width that the whole system have should be maximized.
+	\item When the above two conditions are satisfied as much as possible, we should choose the combination of fungi that expand as fast as possible, because they show great advantages when we do not consider the environmental impact in our initial model.	
+\end{itemize}
+\par So that according to the previous rules, we can set 5 groups with the same initial numbers of fungi and the same initial positions. 
+\begin{table}[H]
+	\centering
+	\caption{Groups Setting}
+	\begin{tabular}{|c|c|c|c|c|c|}
+		\hline
+		&Group 1 & Group 2 & Group 3 & Group4& Group5\\
+		\hline 
+		Fungi choose&F3 $\times$ 4 & F9 $\times$ 4 & F3 $\times$ 2 \& F5 $\times$ 2 &  F11 $\times$ 2 \& F12 $\times$ 2 & F7, F8, F11, F12\\
+		\hline
+		Moisture width &1.32&1.57&1.35&5.17&5.17 \\
+		\hline
+		Temperature width &15.8&18.6&25.0&28.5&29.1 \\
+		\hline
+	\end{tabular}
+\end{table}
+
+\subsection{Results}
+\par In the simulation of this section, we fixed the trend of temperature and moisture to be similar to that of semi-arid area and use cellular automata model to run for 1000 days. The following Fig.\eqref{SYHD} shows theremaining wood thickness for the five different groups of fungi.
+\begin{figure}[H]
+	\centering
+	\begin{subfigure}{0.3\textwidth}
+		\includegraphics[width=\textwidth]{./T5Figure/K1N1/K1N1L.pdf}
+		\caption{F3}
+	\end{subfigure}
+	\begin{subfigure}{0.3\textwidth}
+		\includegraphics[width=\textwidth]{./T5Figure/K1N2/K1N2L.pdf}
+		\caption{F9}
+	\end{subfigure}
+	\begin{subfigure}{0.3\textwidth}
+		\includegraphics[width=\textwidth]{./T5Figure/K2N1/K2N1L.pdf}
+		\caption{F3 F5}
+	\end{subfigure}
+	\begin{subfigure}{0.3\textwidth}
+		\includegraphics[width=\textwidth]{./T5Figure/K2N2/K2N2L.pdf}
+		\caption{F11 F12}
+	\end{subfigure}
+	\begin{subfigure}{0.3\textwidth}
+		\includegraphics[width=\textwidth]{./T5Figure/K4N1/K4N1L.pdf}
+		\caption{F7 F8 F11 F12}
+	\end{subfigure}
+	\caption{Remaining wood thickness.}
+	\label{SYHD}
+\end{figure}
+\par In order to analyze the process better, we draw the change relationship of the remaining proportion of trees during the process. We set the overall thickness of the wood very large in order to maintain the stability of the system.
+
+\begin{figure}[H] 
+	\centering 
+	\includegraphics[height=8cm]{./T5Figure/T5overAll.eps}
+	\caption{Changes in mass of wood.}
+	\label{BHQX}
+\end{figure}
+\par From Fig.\eqref{BHQX}, we can conclude that when environmental factors are taken into account, biodiversity affects the decomposition rate of fungi. When the total number of fungi and the changing trend of the environment remained unchanged, the decomposition efficiency of the system with four different kind of fungi can reach \textbf{twice} as high as that of a single kind and \textbf{1.25 times} as high as that of two kinds.
+\par However, there are preconditions for the conclusion in the previous paragraph, which are \textbf{stability of biodiversity} and \textbf{adaptability and viability} of fungi. Only when these conditions are fully met can we say that the system has \textbf{real biodiversity}

@@ -1,0 +1,1 @@
+若要修改页边距请将mcmthesis.cls第82行的margin也设置为相同数值

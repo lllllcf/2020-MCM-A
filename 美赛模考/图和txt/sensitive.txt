@@ -1,0 +1,80 @@
+\section{Sensitivity Analysis}
+\subsection{Changing Values of $L$ and $h_0$}
+In the previous sections, to reduce the complexity of calculations, we assumed that the span $L$ of the track is $100m$, and the height $h_0$ from the beam to the top of the system is $10m$.
+However, the value of $L$ can be taken from $50m$ to $100m$, and $h_0$ is set by ourselves. Therefore, we need to take different values of $L$ and $h_0$ to see whether the results are still 
+reasonable.
+\par We will first apply a $\pm 5\%$ change for $L$ and $h_0$, and check their influence on the maximum tension of the cable $max\{\frac{f_{i,1} + f_{i,2}}{2}\}$, maximum force on the rod $max\{f_i\}$ and the maximum speed $v_{max}$. 
+\begin{table}[H]
+	\centering
+	\caption{Sensitivity Analysis for $L$}
+	\label{SSL}
+	\begin{tabular}{cccc}
+		\hline
+		\multicolumn{1}{|c|}{\diagbox{L}{result}}    & \multicolumn{1}{c|}{\quad$max\{\frac{f_{i,1} + f_{i,2}}{2}\}$\qquad}  & \multicolumn{1}{c|}{\quad$max\{f_i\}$ \qquad}       & \multicolumn{1}{c|}{\quad$v_{max}$  \qquad}    \\ \hline
+		\multicolumn{1}{|c|}{-5\%} & \multicolumn{1}{c|}{  3.284\%  }  & \multicolumn{1}{c|}{-0.266\%} & \multicolumn{1}{c|}{3.281\%}  \\ \hline
+		\multicolumn{1}{|c|}{-4\%} & \multicolumn{1}{c|}{2.613\%}  & \multicolumn{1}{c|}{-0.214\%} & \multicolumn{1}{c|}{2.610\%}  \\ \hline
+		\multicolumn{1}{|c|}{-3\%} & \multicolumn{1}{c|}{1.949\%}  & \multicolumn{1}{c|}{-0.161\%} & \multicolumn{1}{c|}{1.947\%}  \\ \hline
+		\multicolumn{1}{|c|}{-2\%} & \multicolumn{1}{c|}{1.291\%}  & \multicolumn{1}{c|}{-0.108\%} & \multicolumn{1}{c|}{1.291\%}  \\ \hline
+		\multicolumn{1}{|c|}{-1\%} & \multicolumn{1}{c|}{0.642\%}  & \multicolumn{1}{c|}{-0.054\%} & \multicolumn{1}{c|}{0.642\%}  \\ \hline
+		\multicolumn{1}{|c|}{+1\%} & \multicolumn{1}{c|}{-0.635\%} & \multicolumn{1}{c|}{0.054\%}  & \multicolumn{1}{c|}{-0.635\%} \\ \hline
+		\multicolumn{1}{|c|}{+2\%} & \multicolumn{1}{c|}{-1.264\%} & \multicolumn{1}{c|}{0.107\%}  & \multicolumn{1}{c|}{-1.263\%} \\ \hline
+		\multicolumn{1}{|c|}{+3\%} & \multicolumn{1}{c|}{-1.885\%} & \multicolumn{1}{c|}{0.160\%}  & \multicolumn{1}{c|}{-1.884\%} \\ \hline
+		\multicolumn{1}{|c|}{+4\%} & \multicolumn{1}{c|}{-2.501\%} & \multicolumn{1}{c|}{0.211\%}  & \multicolumn{1}{c|}{-2.499\%} \\ \hline
+		\multicolumn{1}{|c|}{+5\%} & \multicolumn{1}{c|}{-3.109\%} & \multicolumn{1}{c|}{0.262\%}  & \multicolumn{1}{c|}{-3.107\%} \\ \hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[H]
+	\centering
+	\caption{Sensitivity Analysis for $h_0$}
+	\label{SSH}
+	\begin{tabular}{cccc}                                       \hline
+\multicolumn{1}{|c|}{\diagbox{$h_0$}{result}}    & \multicolumn{1}{c|}{\quad$max\{\frac{f_{i,1} + f_{i,2}}{2}\}$\qquad}  & \multicolumn{1}{c|}{\quad$max\{f_i\}$ \qquad}       & \multicolumn{1}{c|}{\quad$v_{max}$  \qquad}    \\ \hline
+		\multicolumn{1}{|c|}{-5\%} & \multicolumn{1}{c|}{-0.0002\%} & \multicolumn{1}{c|}{-0.0213\%} & \multicolumn{1}{c|}{-0.0002\%} \\ \hline
+		\multicolumn{1}{|c|}{-4\%} & \multicolumn{1}{c|}{-0.0002\%} & \multicolumn{1}{c|}{-0.0171\%} & \multicolumn{1}{c|}{-0.0002\%} \\ \hline
+		\multicolumn{1}{|c|}{-3\%} & \multicolumn{1}{c|}{-0.0001\%} & \multicolumn{1}{c|}{-0.0128\%} & \multicolumn{1}{c|}{-0.0001\%} \\ \hline
+		\multicolumn{1}{|c|}{-2\%} & \multicolumn{1}{c|}{-0.0001\%} & \multicolumn{1}{c|}{-0.0085\%} & \multicolumn{1}{c|}{-0.0001\%} \\ \hline
+		\multicolumn{1}{|c|}{-1\%} & \multicolumn{1}{c|}{-0.0000\%} & \multicolumn{1}{c|}{-0.0043\%} & \multicolumn{1}{c|}{-0.0000\%} \\ \hline
+		\multicolumn{1}{|c|}{+1\%} & \multicolumn{1}{c|}{+0.0000\%} & \multicolumn{1}{c|}{+0.0000\%} & \multicolumn{1}{c|}{-0.0000\%} \\ \hline
+		\multicolumn{1}{|c|}{+2\%} & \multicolumn{1}{c|}{+0.0000\%} & \multicolumn{1}{c|}{0.0043\%}  & \multicolumn{1}{c|}{+0.0000\%} \\ \hline
+		\multicolumn{1}{|c|}{+3\%} & \multicolumn{1}{c|}{0.0001\%}  & \multicolumn{1}{c|}{0.0086\%}  & \multicolumn{1}{c|}{0.0001\%}  \\ \hline
+		\multicolumn{1}{|c|}{+4\%} & \multicolumn{1}{c|}{0.0001\%}  & \multicolumn{1}{c|}{0.0128\%}  & \multicolumn{1}{c|}{0.0001\%}  \\ \hline
+		\multicolumn{1}{|c|}{+5\%} & \multicolumn{1}{c|}{0.0002\%}  & \multicolumn{1}{c|}{0.0171\%}  & \multicolumn{1}{c|}{0.0002\%}  \\ \hline
+	\end{tabular}
+\end{table}
+\par From Table.\ref{SSL} and Table.\ref{SSH} we can see that the influence of $h_o$ on our model is negligible, and the influence of L on the model is acceptable which means that our model is stable and the process of fixing the value of $h_0$ and L is reasonable. 
+
+\subsection{Changing the Initial Value of the Vibration Equation}
+The vibration equation is a partial differential equation, and the initial values will effect the solution. In the real world, the wind keeps changing its speed and direction, leaving different 
+initial states of the trailer's vibration in a period of time. Therefore, we change the initial values of the vibration equation to check how the solutions varies.
+\par The cross section area of the hanging beam $A$, the air coefficient $C$, the air density $\rho$, the wind speed $v_w$ and the maximum speed of the vehicle $v_c$ all have influence on the coefficient of the vibration equation, the following table shows the influence of these variables on the maximum amplitude of the vibration.
+\begin{table}[H]
+		\centering
+	\caption{Sensitivity Analysis for Vabration Equation}
+	\label{SSV}
+	\begin{tabular}{|c|c|c|c|c|c|}
+		\hline
+		& A       & C       & $\rho$     & $v_w$      & $v_c$      \\ \hline
+		-5\% & -0.71\% & -4.97\% & -5.52\% & -6.32\% & -5.16\% \\ \hline
+		-4\% & -0.89\% & -4.00\% & -4.00\% & -4.18\% & -4.00\% \\ \hline
+		-3\% & -0.98\% & -3.02\% & -3.38\% & -3.47\% & -2.58\% \\ \hline
+		-2\% & -0.18\% & -2.04\% & -1.87\% & -2.22\% & -1.78\% \\ \hline
+		-1\% & -0.71\% & -1.07\% & -1.25\% & -1.16\% & -1.16\% \\ \hline
+		1\%  & 0.09\%  & 0.80\%  & 1.07\%  & 1.25\%  & 0.98\%  \\ \hline
+		2\%  & 0.09\%  & 1.33\%  & 2.05\%  & 2.22\%  & 1.16\%  \\ \hline
+		3\%  & 0.11\%  & 2.22\%  & 2.76\%  & 2.14\%  & 2.58\%  \\ \hline
+		4\%  & 0.27\%  & 4.00\%  & 4.00\%  & 6.41\%  & 3.20\%  \\ \hline
+		5\%  & 0.36\%  & 4.62\%  & 5.16\%  & 5.34\%  & 4.00\%  \\ \hline
+	\end{tabular}
+\end{table}
+\par From Table.\ref{SSV} we can see that the influence of these five variables on the amplitude of the vibration in Model 3 is acceptable which peoves the reliable of our model.
+
+\subsection{Changing the value of $b$}
+\par In Model 4: The rescue scheme, we fix the value of the distance between two beams to $b = 5m$ and analyze the shortest rescue route and its corresponding time. However, the constrain of the value of $b$ is $b \geq 4.5 m$ so that we can apply a $\pm 5\%$ change of $b$ to see whether it will influence the result a lot or not.
+\begin{figure}[H]
+	\centering
+	\includegraphics[width = 0.8\textwidth]{ss4.jpg}
+	\caption{Sensitivity Analysis of $b$}
+	\label{SS4}
+\end{figure}
+\par The shadow on Figure.\ref{SS4} around the lines shows the influence of $b$ and we can conclude that the influence of $b$ is small which means that our results are credible.

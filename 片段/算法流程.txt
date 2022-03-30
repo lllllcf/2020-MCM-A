@@ -1,0 +1,17 @@
+\par Cellular automata is a model that defines \textbf{a finite space} and a series of \textbf{discrete cells}. These cells will automatically evolve according to the different states of their eight \textbf{neighbors} and follow certain \textbf{evolution rules}. It is a dynamic and discrete system which can simulate the growth, decomposition and competition of various fungi on the wood very well. Fig.(\ref{f1ForCA}) shows a brief sketch of cellular automata model.
+
+\begin{figure}[H] 
+	\centering 
+	\includegraphics[height=7cm]{./picture/CA.pdf}
+	\caption{Cellular automata model}
+	\label{f1ForCA}
+\end{figure}
+
+\par Fig.(\ref{AS}) is the \textbf{evolution rules} for the fungi cell. In the whole process, the growth speed of the cell follows the modified extension rate which is shown on Eqn.\eqref{???}, the winning probability is defined by Elo rating system which is shown on Eqn.\eqref{???} and the decomposition rate is calculated by Eqn.\eqref{???}.
+\begin{figure}[H] 
+	\centering 
+	\includegraphics[height=10cm]{./picture/liucheng.pdf}
+	\caption{Algorithm schematic}
+	\label{AS}
+\end{figure}
+\par 
